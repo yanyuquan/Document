@@ -20,3 +20,4 @@ grammar_cjkRuby: true
 
   [1]: ./images/1513051856462.jpg
   [2]: ./images/1513052078712.jpg
+  [3]: ./images/1513052133582.jpg
