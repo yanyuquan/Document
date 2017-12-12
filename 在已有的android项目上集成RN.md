@@ -11,7 +11,7 @@ grammar_cjkRuby: true
 # **添加reactNative**
 1. 进入工程的根目录 npm init  生成package.json
    需要输入项目的名称，版本号，其他的可以回车跳过
-   
+  以下下是package.json 的内容：
    
 
 ``` stylus
@@ -23,10 +23,9 @@ grammar_cjkRuby: true
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "yuquan_y",
   "license": "ISC"
 }
 ```
-
 
 2. 
