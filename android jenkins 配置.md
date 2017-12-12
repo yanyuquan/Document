@@ -15,9 +15,14 @@ grammar_cjkRuby: true
 
 
 二、接下来说一下jerkins配置
-
+1.配置下git或者svn
+2.配置打包脚本（gradle）
+![enter description here][3]
+这里的task 可以根据android studio gradle标签查看以下如下图：
+![enter description here][4]
 
 
   [1]: ./images/1513051856462.jpg
   [2]: ./images/1513052078712.jpg
-  [3]: ./images/1513052133582.jpg
+  [3]: ./images/1513052485915.jpg
+  [4]: ./images/1513052596334.jpg
