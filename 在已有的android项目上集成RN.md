@@ -33,7 +33,17 @@ grammar_cjkRuby: true
 ![enter description here][1]
 
 
-  [1]: ./images/1513049411190.jpg
-  
   3在package.json 文件中添加启动脚本
   "start": "node node_modules/react-native/local-cli/cli.js start"
+![enter description here][2]
+
+
+
+ 4.
+
+
+  [1]: ./images/1513049411190.jpg
+  [2]: ./images/1513049898937.jpg
+  
+  
+  
