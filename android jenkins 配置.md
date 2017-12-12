@@ -1,6 +1,6 @@
 ---
-title: android jenkins 配置
-tags: 新建,模板,小书匠
+title: android jenkins  配置
+tags: jenkins
 grammar_cjkRuby: true
 ---
 
