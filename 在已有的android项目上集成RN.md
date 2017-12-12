@@ -28,5 +28,11 @@ grammar_cjkRuby: true
 }
 ```
 
-2.使用 npm –save react react-native  下载node_modules  这里放着我们RN的SDK  以及以后我们需要加载的三方都会放在node_modules，很像我们工程的libraries
+2.使用 npm install --save react react-native  下载node_modules 这里放着我们RN的SDK ,以及以后我们需要加载的三方都会放在node_modules，很像我们工程的libraries.
 
+![enter description here][1]
+
+
+  [1]: ./images/1513049411190.jpg
+  
+  3在package.json 文件中添加启动脚本
