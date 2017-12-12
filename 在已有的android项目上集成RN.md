@@ -28,4 +28,5 @@ grammar_cjkRuby: true
 }
 ```
 
-2. 
+2.使用 npm –save react react-native  下载node_modules  这里放着我们RN的SDK  以及以后我们需要加载的三方都会放在node_modules，很像我们工程的libraries
+
